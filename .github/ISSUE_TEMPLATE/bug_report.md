@@ -38,3 +38,4 @@ Si es posible, añade capturas de pantalla o registros de errores.
 ### Información adicional
 
 Cualquier otra información relevante.
+. 
